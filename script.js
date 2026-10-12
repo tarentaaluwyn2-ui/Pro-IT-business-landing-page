@@ -6,12 +6,12 @@ let currentIndex = 0;
 
 
 let arrayOfImages = [
-    "images/controller2.jpg",
-    "images/gaming-pc.jpg",
-    "images/laptop2.jpg",
-    "images/motherboard2.jpg",
-    "images/pc fan.jpg",
-    "images/ram2.jpg"
+    "../images/controller2.jpg",
+    "../images/gaming-pc.jpg",
+    "../images/laptop2.jpg",
+    "../images/motherboard2.jpg",
+    "../images/pc fan.jpg",
+    "../images/ram2.jpg"
 ];
 
 function updateGallery() {
